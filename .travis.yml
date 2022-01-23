@@ -1,0 +1,5 @@
+install:
+  - bash .travis.sh travis_install
+
+script:
+  - bash .travis.sh travis_script
