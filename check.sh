@@ -1,1 +1,1 @@
-svlint *
+./svlint *
